@@ -19,7 +19,7 @@ header {
 
 .header-title {
   text-align: center;
-  box-shadow 0 0 10px #fff;
+  box-shadow: 0 0 10px #fff;
 }
 
 .header-title h1 {
